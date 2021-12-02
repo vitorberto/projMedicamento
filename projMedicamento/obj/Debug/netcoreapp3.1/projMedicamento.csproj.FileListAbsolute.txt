@@ -1,0 +1,14 @@
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.exe
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.deps.json
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.runtimeconfig.json
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.runtimeconfig.dev.json
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.dll
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\bin\Debug\netcoreapp3.1\projMedicamento.pdb
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.csproj.AssemblyReference.cache
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.AssemblyInfoInputs.cache
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.AssemblyInfo.cs
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.dll
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.pdb
+C:\Users\vitub\source\repos\projMedicamento\projMedicamento\obj\Debug\netcoreapp3.1\projMedicamento.genruntimeconfig.cache
